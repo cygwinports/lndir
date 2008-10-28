@@ -1,4 +1,4 @@
 category: X11 Utils
 requires: cygwin
-sdesc: "Xorg recursive directory symlink tool"
-ldesc: "Xorg recursive directory symlink tool"
+sdesc: "X.Org recursive directory symlink tool"
+ldesc: "X.Org recursive directory symlink tool"

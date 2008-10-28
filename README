@@ -1,6 +1,6 @@
 lndir
 ------------------------------------------
-Xorg recursive directory symlink tool
+X.Org recursive directory symlink tool
 
 Runtime requirements:
   cygwin-1.5.25-15
